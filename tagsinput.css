@@ -99,5 +99,6 @@
   color: #ffffff;
   text-decoration: none;
   outline: 0;
-  background-color: #428bca;
+  background-color: none;
+  border: 1px solid #777;
 }
